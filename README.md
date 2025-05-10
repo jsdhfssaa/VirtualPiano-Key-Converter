@@ -6,7 +6,7 @@ Thanks for supporting my project.
 
 Guide for Self-Built:
  
-   -Download ONLY the Self-Build Folder
+   -Download the Self-Build Release
  
    -Execute it
  
