@@ -1,5 +1,3 @@
-winget install git.git
-git clone https://github.com/jsdhfssaa/VirtualPiano-Key-Converter.git
-cd VirtualPiano-Key-Converter
+cd..
 dotnet build
 ren obj Build
