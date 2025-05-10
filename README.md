@@ -1,6 +1,5 @@
-# VirtualPiano-Key-Converter
+This is my little  Project.
 
+You can convert VirtualPiano Keys into real Piano notes.
 
-Thanks for visiting my little Project to convert Virtual Piano Keys to real Piano notes and stuff.
-
-Thanks for the Support
+Thanks for supporting my project.
